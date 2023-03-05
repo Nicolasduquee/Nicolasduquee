@@ -1,6 +1,6 @@
 ## Olá, eu sou o Nicolas Duque
 
-🖥 Atualmente estou estudando Análise e desenvolvimento de sistemas.
+Atualmente estou estudando Análise e desenvolvimento de sistemas e comandando a implementação tecnológica na DM Comércio&Varejo.
 
 
 <div>

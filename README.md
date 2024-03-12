@@ -1,6 +1,6 @@
 ## Olá, eu sou o Nicolas Duque
 
-Atualmente estou estudando Análise e desenvolvimento de sistemas e comandando a implementação tecnológica em geral na DM Comércio&Varejo.
+Atualmente estou estudando Análise e desenvolvimento de sistemas e comandando a implantação tecnológica em geral na DM Comércio&Varejo.
 
 
 <div>
@@ -16,7 +16,8 @@ Atualmente estou estudando Análise e desenvolvimento de sistemas e comandando a
   <img align="center" alt="Nic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nic-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Nic-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Nic-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Nic-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div
 </div>
 
